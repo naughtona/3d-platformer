@@ -1,4 +1,4 @@
-# COMP30019 Graphics and Interaction - 2020S2 Project 2
+# Beat The Heat - 3D Platformer
 
 ## Table of contents
 * [Team Members](#team-members)
